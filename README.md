@@ -1,6 +1,6 @@
-# FO Software Academy - Web and Database Technologies, Assignment Repository
+# 🏠 FO Software Academy - Web and Database Technologies, Assignment Repository
 
-This repository consists my assignments and projects of FO Software Academy - Web and Database Technologies program.
+This is my personal repository to keep my assignments and projects of FO Software Academy - Web and Database Technologies program.
 
 ## Weeks
 
@@ -38,9 +38,11 @@ code .
 
 Enjoy 🚀 - Doruk
 
-## My patika.dev profile:
+## Communication channels:
 
-<a href="https://app.patika.dev/kaolin"><img src="assets/newPatikaLogo.svg" width=200/></a>
+<a href="https://www.linkedin.com/in/dorukolcmener/"><img src="assets/LinkedIn-Blue-96-2x.png" height=20 /></a> &emsp;
+<a href="https://lichess.org/@/dorukovic"><img src="assets/Lichess_Logo.svg" height=30 /></a> &emsp;
+<a href="https://app.patika.dev/kaolin"><img src="assets/newPatikaLogo.svg" height=20/></a>
 
 ## Contributing
 
@@ -48,4 +50,4 @@ Pull requests are welcome. Please start a discussion before major changes. Thank
 
 ## License
 
-[MIT](LICENSE)
+### **[MIT](LICENSE)**
