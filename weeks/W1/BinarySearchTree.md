@@ -22,7 +22,7 @@ Select root. I selected the element **4** in this case.
 
 ### Step 3:
 
-I selected 2 and 7 as roots and created the tree.
+I selected 2 and 7 as sub roots and created the whole tree:
 
 <img src="../../assets/BST-Project3.png" height=300/>
 
