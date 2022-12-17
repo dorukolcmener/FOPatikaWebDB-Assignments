@@ -8,7 +8,7 @@ This repository consists my assignments and projects of FO Software Academy - We
 
   - GIT
 
-    - [MyFirstRepo - Git Assignment #1](weeks/W1/Git.md)
+    - [KodluyoruzFirstRepo - Git Assignment #1](weeks/W1/Git.md)
 
   - Data Structures and Algorithms
 
