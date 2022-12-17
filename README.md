@@ -1,6 +1,6 @@
 # 🏠 FO Software Academy - Web and Database Technologies, Assignment Repository
 
-This is my personal repository to keep my assignments and projects of FO Software Academy - Web and Database Technologies program.
+This is my personal repository to keep track of my assignments and projects of FO Software Academy - Web and Database Technologies program.
 
 ## Weeks
 
@@ -50,4 +50,4 @@ Pull requests are welcome. Please start a discussion before major changes. Thank
 
 ## License
 
-### **[MIT](LICENSE)**
+[MIT](LICENSE)
