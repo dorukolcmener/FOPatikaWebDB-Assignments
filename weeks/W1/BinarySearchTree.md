@@ -1,4 +1,4 @@
-# [⬅️ Go Back](../../README.md)
+### [⬅️ Go Back](../../README.md)
 
 # Binary Search Tree Project #3
 
