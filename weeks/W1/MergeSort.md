@@ -14,31 +14,41 @@ Please write down every step of the sorting process of the series above.
 
 Load the series to start.
 
-**<div align="center">[16,21,11,8,12,22]</div>**
+```
+[16,21,11,8,12,22]
+```
 
 ### Step 2
 
 Start diving series.
 
-**<div align="center">[16,21,11] [8,12,22]</div>**
+```
+[16,21,11] [8,12,22]
+```
 
 ### Step 3
 
 Continue dividing sub series.
 
-**<div align="center">[16,21] [11] [8,12] [22]</div>**
+```
+[16,21] [11] [8,12] [22]
+```
 
 ### Step 4
 
 Start merging (minimum first item of each sub array will take the first index of merged series), and so on.
 
-**<div align="center">[11,16,21] [8,12,22]</div>**
+```
+[11,16,21] [8,12,22]
+```
 
 ### Step 5
 
 Continue merging (minimum first item of each sub array will take the first index of merged series), and so on.
 
-**<div align="center">[8,11,12,16,21,22]</div>**
+```
+[8,11,12,16,21,22]
+```
 
 ## ❓Question 2:
 
