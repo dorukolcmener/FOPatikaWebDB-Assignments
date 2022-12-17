@@ -1,6 +1,6 @@
 # FO Software Academy - Web and Database Technologies, Assignment Repository
 
-This repository has my assignments and projects of FO Software Academy - Web and Database Technologies program.
+This repository consists my assignments and projects of FO Software Academy - Web and Database Technologies program.
 
 ## Weeks
 
