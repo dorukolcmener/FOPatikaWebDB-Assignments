@@ -46,7 +46,7 @@ Enjoy 🚀 - Doruk
 
 ## Contributing
 
-Pull requests are welcome. Please start a discussion before major changes. Thank you 😊.
+Pull requests are welcome. Please start a discussion before raising major changes. Thank you 😊.
 
 ## License
 
