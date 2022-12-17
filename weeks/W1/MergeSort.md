@@ -1,3 +1,5 @@
+# [⬅️ Go Back](../../README.md)
+
 # Merge Sort Project #2
 
 Assignment Link: [Patika.Dev Merge Sort Project Link](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)

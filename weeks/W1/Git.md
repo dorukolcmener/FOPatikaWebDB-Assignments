@@ -1,3 +1,5 @@
+# [⬅️ Go Back](../../README.md)
+
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) Web Yazılım Geliştirme ve Veri Tabanı Teknolojileri Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
