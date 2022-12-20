@@ -23,6 +23,7 @@ This is my personal repository to keep track of my assignments and projects of F
   - C#
 
     - [Variables and Data Types Assignment #1](/weeks/W2/VariablesandDataTypes.md)
+    - [Operators Assignment #2](/weeks/W2/Operators.md)
 
 ## Usage
 
