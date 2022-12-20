@@ -25,7 +25,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Variables and Data Types Assignment #1](/weeks/W2/VariablesandDataTypes.md)
     - [Operators Assignment #2](/weeks/W2/Operators.md)
     - [Type Conversions Assignment #3](/weeks/W2/TypeConversion.md)
-    - [Try Catch Finally Assignment #4](/weeks/W2/TCF.md)
+    - [Error Handling / Try Catch Finally Assignment #4](/weeks/W2/TCF.md)
 
 ## Usage
 
