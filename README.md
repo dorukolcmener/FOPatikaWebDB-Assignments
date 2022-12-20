@@ -26,6 +26,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Operators Assignment #2](/weeks/W2/Operators.md)
     - [Type Conversions Assignment #3](/weeks/W2/TypeConversion.md)
     - [Error Handling / Try Catch Finally Assignment #4](/weeks/W2/TCF.md)
+    - [If Else If Conditions Assignment #5](/weeks/W2/ifelse.md)
 
 ## Usage
 
