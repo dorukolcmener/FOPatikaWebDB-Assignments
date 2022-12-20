@@ -41,8 +41,11 @@ Enjoy 🚀 - Doruk
 ## Communication channels:
 
 <a href="https://www.linkedin.com/in/dorukolcmener/"><img src="assets/LinkedIn-Blue-96-2x.png" height=20 /></a> &emsp;
-<a href="https://lichess.org/@/dorukovic"><img src="assets/Lichess_Logo.svg" height=30 /></a> &emsp;
-<a href="https://app.patika.dev/kaolin"><img src="assets/newPatikaLogo.svg" height=20/></a>
+<a href="https://discord.com/users/772126247685718036" target="_blank">
+<img src="assets/discord.svg" height=25/>
+</a> &emsp;
+<a href="https://app.patika.dev/kaolin"><img src="assets/newPatikaLogo.svg" height=20/></a> &emsp;
+<a href="https://lichess.org/@/dorukovic"><img src="assets/Lichess_Logo.svg" height=30 /></a>
 
 ## Contributing
 
