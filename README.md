@@ -27,6 +27,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Type Conversions Assignment #3](/weeks/W2/TypeConversion.md)
     - [Error Handling / Try Catch Finally Assignment #4](/weeks/W2/TCF.md)
     - [If Else If Conditions Assignment #5](/weeks/W2/ifelse.md)
+    - [Switch Case Assignment #6](/weeks/W2/switchcase.md)
 
 ## Usage
 
