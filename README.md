@@ -19,7 +19,10 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Binary Search Tree - Data Structures and Algorithms Project #3](/weeks/W1/BinarySearchTree.md)
 
 - ### Week#2
-  - Loading ...
+
+  - C#
+
+    - [Variables and Data Types Assignment #1](/weeks/W2/VariablesandDataTypes.md)
 
 ## Usage
 
