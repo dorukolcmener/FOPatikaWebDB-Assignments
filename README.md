@@ -28,6 +28,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Error Handling / Try Catch Finally Assignment #4](/weeks/W2/TCF.md)
     - [If Else If Conditions Assignment #5](/weeks/W2/ifelse.md)
     - [Switch Case Assignment #6](/weeks/W2/switchcase.md)
+    - [Loops #7](/weeks/W2/loops.md)
 
 ## Usage
 
