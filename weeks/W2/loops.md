@@ -16,7 +16,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Write a program that prints all the odd numbers between 1 and 100, separated by a comma.
+        // Prints all the odd numbers between 1 and 100, separated by a comma.
         Console.WriteLine("Please enter a number: ");
         int counter = int.Parse(Console.ReadLine());
         for (int i = 0; i < counter; i++)
@@ -25,7 +25,7 @@ class Program
                 Console.WriteLine(i);
         }
 
-        // Write a program that prints sum of all odd and even numbers between 1 and 1000, separated by a comma.
+        // Prints sum of all odd and even numbers between 1 and 1000.
         int sumOdd = 0;
         int sumEven = 0;
         for (int i = 0; i < 1000; i++)
