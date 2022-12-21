@@ -30,6 +30,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Switch Case Assignment #6](/weeks/W2/switchcase.md)
     - [Loops #7](/weeks/W2/loops.md)
     - [Foreach #8](/weeks/W2/foreach.md)
+    - [Array Decleration Access and Loops #9](/weeks/W2/arraydecleration.md)
 
 ## Usage
 
