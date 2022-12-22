@@ -1,6 +1,6 @@
 ### [⬅️ Go Back](../../README.md)
 
-# C# Recursion & Extending Methods Assignment
+# C# Recursion & Extension Methods Assignment
 
 Assignment Link: [Patika.Dev C# Assignment #13](https://app.patika.dev/courses/csharp-101/3-extension-recursive-metotlar)
 
