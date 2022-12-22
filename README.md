@@ -8,15 +8,15 @@ This is my personal repository to keep track of my assignments and projects of F
 
   - GIT
 
-    - [KodluyoruzFirstRepo - Git Assignment #1](weeks/W1/Git.md)
+    - [⭐ KodluyoruzFirstRepo - Git Assignment #1](weeks/W1/Git.md)
 
   - Data Structures and Algorithms
 
-    - [Selection Sort - Data Structures and Algorithms Project #1](/weeks/W1/SelectionSort.md)
+    - [🚀 Selection Sort - Data Structures and Algorithms Project #1](/weeks/W1/SelectionSort.md)
 
-    - [Merge Sort - Data Structures and Algorithms Project #2](/weeks/W1/MergeSort.md)
+    - [🚀 Merge Sort - Data Structures and Algorithms Project #2](/weeks/W1/MergeSort.md)
 
-    - [Binary Search Tree - Data Structures and Algorithms Project #3](/weeks/W1/BinarySearchTree.md)
+    - [🚀 Binary Search Tree - Data Structures and Algorithms Project #3](/weeks/W1/BinarySearchTree.md)
 
 - ### Week#2
 
@@ -35,6 +35,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Method Declarations #11](/weeks/W2/methoddeclare.md)
     - [Method OverLoading #12](/weeks/W2/methodoverloading.md)
     - [Recursion & Extension Methods #13](/weeks/W2/recextend.md)
+    - [⭐ Algorithm Questions - Homework #1](/weeks/W2/Homework1.md)
 
 ## Usage
 
