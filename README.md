@@ -36,7 +36,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Method OverLoading #12](/weeks/W2/methodoverloading.md)
     - [Recursion & Extension Methods #13](/weeks/W2/recextend.md)
     - [⭐ Algorithm Questions - Homework #1](/weeks/W2/Homework1.md)
-    - [Recursion & Extension Methods #14](/weeks/W2/stringmethods.md)
+    - [String Methods #14](/weeks/W2/stringmethods.md)
 
 ## Usage
 
