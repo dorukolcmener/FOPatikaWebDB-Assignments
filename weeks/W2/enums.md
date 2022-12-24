@@ -2,7 +2,7 @@
 
 # C# Enums Assignment
 
-Assignment Link: [Patika.Dev C# Assignment #21](https://app.patika.dev/courses/csharp-101/17-enum)
+Assignment Link: [Patika.Dev C# Assignment #22](https://app.patika.dev/courses/csharp-101/17-enum)
 
 ## ❓Question 1 :
 
