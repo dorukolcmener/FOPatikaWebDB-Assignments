@@ -1,6 +1,6 @@
 ### [⬅️ Go Back](../../README.md)
 
-# C# ArrayList Assignment
+# C# Classes & Access Modifiers Assignment
 
 Assignment Link: [Patika.Dev C# Assignment #18](https://app.patika.dev/courses/csharp-101/1-sinif-field-metot-tanımlama-erişim-belirleyiciler)
 
