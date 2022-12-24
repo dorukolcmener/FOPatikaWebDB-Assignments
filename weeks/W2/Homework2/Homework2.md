@@ -1,6 +1,6 @@
 ### [⬅️ Go Back](../../../README.md)
 
-# C# Algorithm Questions - Homework #2
+# C# Collections Algorithm Questions - Homework #2
 
 Assignment Link: [Patika.Dev C# Homework #2](https://app.patika.dev/courses/csharp-101/15-odev-2)
 
