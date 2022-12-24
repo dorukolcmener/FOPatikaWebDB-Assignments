@@ -40,6 +40,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [DateTime Methods #15](/weeks/W2/datetimemethods.md)
     - [Generic Collections #16](/weeks/W2/collections.md)
     - [ArrayList Collections #17](/weeks/W2/arraylist.md)
+    - [⭐ Collections - Homework #2](/weeks/W2/Homework2/Homework2.md)
 
 ## Usage
 
