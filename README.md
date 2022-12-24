@@ -39,6 +39,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [String Methods #14](/weeks/W2/stringmethods.md)
     - [DateTime Methods #15](/weeks/W2/datetimemethods.md)
     - [Generic Collections #16](/weeks/W2/collections.md)
+    - [ArrayList Collections #17](/weeks/W2/arraylist.md)
 
 ## Usage
 
