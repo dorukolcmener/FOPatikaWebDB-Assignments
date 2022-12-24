@@ -44,6 +44,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Class & Access Modifiers #18](/weeks/W2/classaccess.md)
     - [Constructors #19](/weeks/W2/constructor.md)
     - [Encapsulation & Property #20](/weeks/W2/encapprop.md)
+    - [Static Class & Members #21](/weeks/W2/staticclass.md)
 
 ## Usage
 
