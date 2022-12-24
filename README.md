@@ -41,6 +41,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Generic Collections #16](/weeks/W2/collections.md)
     - [ArrayList Collections #17](/weeks/W2/arraylist.md)
     - [⭐ Collections - Homework #2](/weeks/W2/Homework2/Homework2.md)
+    - [Class & Access Modifiers #18](/weeks/W2/classaccess.md)
 
 ## Usage
 
