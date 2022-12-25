@@ -46,6 +46,8 @@ This is my personal repository to keep track of my assignments and projects of F
     - [Encapsulation & Property #20](/weeks/W2/encapprop.md)
     - [Static Class & Members #21](/weeks/W2/staticclass.md)
     - [Enums #22](/weeks/W2/enums.md)
+    - [🚀 Phone Book - Project #1](/weeks/W2/Project1/)
+    - [🚀 TODO Board - Project #2](/weeks/W2/Project2/)
 
 ## Usage
 
