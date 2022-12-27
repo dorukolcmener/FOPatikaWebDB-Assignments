@@ -20,7 +20,7 @@ Please draw a UML diagram that describes the system below:
 
 ## ✏️Answer 1 :
 
-I have used mermaid syntax to generate the UML class diagram:
+I have written mermaid syntax to generate the UML class diagram:
 
 ```js
 classDiagram

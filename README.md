@@ -54,6 +54,7 @@ This is my personal repository to keep track of my assignments and projects of F
   - OOP
 
     - [⭐ University UML Diagram - Homework #1](/weeks/W3/OOP/UniversityDiagram.md)
+    - [⭐ Zoo Management UML Diagram - Homework #2](/weeks/W3/OOP/ZooManagementDiagram.md)
 
 ## Usage
 
