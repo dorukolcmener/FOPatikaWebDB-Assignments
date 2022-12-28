@@ -34,6 +34,7 @@ classDiagram
     class User {
         +buyMovie()
         +requestMovie()
+        +buyCredit()
     }
 
     class Account {
@@ -41,9 +42,7 @@ classDiagram
         +getCredit()
     }
 
-    class NormalUser {
-        +buyCredit()
-    }
+    class NormalUser
 
     class Subscriber {
         +rentMovie()
@@ -60,7 +59,7 @@ classDiagram
 
 Output:
 
-<img src="./OOP-HW4.png" />
+<img src="OOP-HW4.png"/>
 
 Enjoy 🚀 - Doruk
 
