@@ -57,6 +57,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ Zoo Management UML Diagram - Homework #2](/weeks/W3/OOP/ZooManagementDiagram.md)
     - [⭐ Airline Company Management UML Diagram - Homework #3](/weeks/W3/OOP/AirlineCompany.md)
     - [⭐ Online Movie System UML Diagram - Homework #4](/weeks/W3/OOP/OnlineMovie.md)
+    - [⭐ Escalator System UML Diagram - Homework #5](/weeks/W3/OOP/EscalatorSimulation.md)
 
 ## Usage
 
