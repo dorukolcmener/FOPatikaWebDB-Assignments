@@ -51,6 +51,10 @@ This is my personal repository to keep track of my assignments and projects of F
 
 - ### Week#3
 
+  - SQL
+
+    - [⭐ Homework #1](/weeks/W3/SQL/Homework1.md)
+
   - OOP
 
     - [⭐ University UML Diagram - Homework #1](/weeks/W3/OOP/UniversityDiagram.md)
