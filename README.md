@@ -54,6 +54,7 @@ This is my personal repository to keep track of my assignments and projects of F
   - SQL
 
     - [⭐ Homework #1](/weeks/W3/SQL/Homework1.md)
+    - [⭐ Homework #2](/weeks/W3/SQL/Homework2.md)
 
   - OOP
 

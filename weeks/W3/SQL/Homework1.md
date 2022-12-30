@@ -4,11 +4,11 @@
 
 Assignment Link: [Patika.Dev SQL Homework #1](https://app.patika.dev/courses/sql/Odev1)
 
-## ❓Question 1 :
+## ❓Question :
 
 Please write necessary queries according to given conditions.
 
-## ✏️Answer 1 :
+## ✏️Answer :
 
 ```sql
 -- Question 1 / Answer
