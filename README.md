@@ -53,8 +53,9 @@ This is my personal repository to keep track of my assignments and projects of F
 
   - SQL
 
-    - [⭐ Homework #1](/weeks/W3/SQL/Homework1.md)
-    - [⭐ Homework #2](/weeks/W3/SQL/Homework2.md)
+    - [⭐ SELECT/WHERE - Homework #1](/weeks/W3/SQL/Homework1.md)
+    - [⭐ BETWEEN/IN - Homework #2](/weeks/W3/SQL/Homework2.md)
+    - [⭐ LIKE/ILIKE - Homework #3](/weeks/W3/SQL/Homework3.md)
 
   - OOP
 
