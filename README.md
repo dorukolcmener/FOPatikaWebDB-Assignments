@@ -57,6 +57,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ BETWEEN/IN - Homework #2](/weeks/W3/SQL/Homework2.md)
     - [⭐ LIKE/ILIKE - Homework #3](/weeks/W3/SQL/Homework3.md)
     - [⭐ DISTINCT/COUNT - Homework #4](/weeks/W3/SQL/Homework4.md)
+    - [⭐ LIMIT/OFFSET - Homework #5](/weeks/W3/SQL/Homework5.md)
 
   - OOP
 
