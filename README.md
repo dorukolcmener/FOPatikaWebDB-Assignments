@@ -58,6 +58,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ LIKE/ILIKE - Homework #3](/weeks/W3/SQL/Homework3.md)
     - [⭐ DISTINCT/COUNT - Homework #4](/weeks/W3/SQL/Homework4.md)
     - [⭐ LIMIT/OFFSET - Homework #5](/weeks/W3/SQL/Homework5.md)
+    - [⭐ Aggregate Functions - Homework #6](/weeks/W3/SQL/Homework6.md)
 
   - OOP
 
