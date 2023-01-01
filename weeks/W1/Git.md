@@ -2,9 +2,9 @@
 
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) Web Yazılım Geliştirme ve Veri Tabanı Teknolojileri Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) Web Yazılım Geliştirme ve Veri Tabanı Teknolojileri Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. Repoya gitmek için aşağıdaki resme tıklayabilirsiniz.
 
-![RepoImage](../../assets/repo_image.jpg)
+<a href="https://github.com/dorukolcmener/kodluyoruzilkrepo"><img src="./Git_repo_image.jpg"/></a>
 
 ## Installation
 
