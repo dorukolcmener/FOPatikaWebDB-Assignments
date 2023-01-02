@@ -63,6 +63,8 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ CREATE/UPDATE/DELETE - Homework #8](/weeks/W3/SQL/Homework8.md)
     - [⭐ INNER JOIN - Homework #9](/weeks/W3/SQL/Homework9.md)
     - [⭐ LEFT/RIGHT/FULL JOIN - Homework #10](/weeks/W3/SQL/Homework10.md)
+    - [⭐ UNION/INTERSECT/EXCEPT - Homework #11](/weeks/W3/SQL/Homework11.md)
+    - [⭐ SubQueries - Homework #12](/weeks/W3/SQL/Homework12.md)
 
   - OOP
 
