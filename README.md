@@ -62,7 +62,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ GROUP BY/HAVING - Homework #7](/weeks/W3/SQL/Homework7.md)
     - [⭐ CREATE/UPDATE/DELETE - Homework #8](/weeks/W3/SQL/Homework8.md)
     - [⭐ INNER JOIN - Homework #9](/weeks/W3/SQL/Homework9.md)
-    - [⭐ INNER JOIN - Homework #10](/weeks/W3/SQL/Homework10.md)
+    - [⭐ LEFT/RIGHT/FULL JOIN - Homework #10](/weeks/W3/SQL/Homework10.md)
 
   - OOP
 
