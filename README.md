@@ -84,13 +84,13 @@ This is my personal repository to keep track of my assignments and projects of F
 
 ## Usage
 
-If you want to review my repo locally, please clone it first.
+If you want to review my repository locally, please clone it first.
 
 ```
 git clone https://github.com/dorukolcmener/FOPatikaWebDB-Assignments.git
 ```
 
-After downloading the reposity, please open the folder with your favourite IDE.
+After downloading the repository, open it with your favourite IDE.
 
 ```
 cd FOPatikaWebDB-Assignments
