@@ -75,7 +75,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ Escalator System UML Diagram - Homework #5](/weeks/W3/OOP/EscalatorSimulation.md)
 
 - ### Week#4
-  - Loading... 🤩
+  - [🚀 BookStore - Part 1 (Week 4)](/weeks/W4/)
 
 ## Usage
 

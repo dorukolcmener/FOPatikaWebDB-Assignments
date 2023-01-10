@@ -1,0 +1,103 @@
+{
+  "info": {
+    "name": "BookStore",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "View List of Books in Order",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "localhost:5155/books",
+          "host": ["localhost"],
+          "port": "5155",
+          "path": ["books"],
+          "query": [
+            {
+              "key": "id",
+              "value": "1",
+              "disabled": true
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get Book by ID",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "localhost:5155/books/1",
+          "host": ["localhost"],
+          "port": "5155",
+          "path": ["books", "1"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Add a Book",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"id\": 4,\r\n  \"title\": \"Sin City\",\r\n  \"genreId\": 2,\r\n  \"pageCount\": 1100,\r\n  \"publishDate\": \"2023-01-08T19:10:03.054Z\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "localhost:5155/books",
+          "host": ["localhost"],
+          "port": "5155",
+          "path": ["books"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Update a Book",
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"id\": 4,\r\n  \"title\": \"Sin City2\",\r\n  \"genreId\": 2,\r\n  \"pageCount\": 1100,\r\n  \"publishDate\": \"2023-01-08T19:10:03.054Z\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "localhost:5155/books/4",
+          "host": ["localhost"],
+          "port": "5155",
+          "path": ["books", "4"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "New Request",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "localhost:5155/books/4",
+          "host": ["localhost"],
+          "port": "5155",
+          "path": ["books", "4"]
+        }
+      },
+      "response": []
+    }
+  ]
+}
