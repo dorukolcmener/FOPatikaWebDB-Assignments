@@ -76,7 +76,8 @@ This is my personal repository to keep track of my assignments and projects of F
 
 - ### Week#4
 
-  - [🚀 BookStore - Part 1 (Week 4)](/weeks/W4/)
+  - .NET
+    - [🚀 BookStore - Part 1 (Week 4)](/weeks/W4/)
 
 - ### Week#5
   - Loading... 🤩
