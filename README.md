@@ -80,8 +80,13 @@ This is my personal repository to keep track of my assignments and projects of F
     - [🚀 BookStore - Part 1 (Week 4)](/weeks/W4/)
 
 - ### Week#5
+
   - Entity Framework
     - [⭐ InterestRate WebApi - Homework #1](/weeks/W5/BankingApi/)
+    - Loading... 🤩
+
+- ### Week#6
+  - Loading... 🤩
 
 ## Usage
 
