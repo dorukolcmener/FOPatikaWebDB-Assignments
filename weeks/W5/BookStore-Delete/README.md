@@ -6,7 +6,7 @@ Assignment Link: [Patika.Dev .NET DELETE Usage Assignment](https://app.patika.de
 
 ## ❓Question :
 
-Implement GetById and UpdateBook operations.
+Review GetById and UpdateBook operations, and implement DELETE.
 
 ## ✏️Answer :
 
