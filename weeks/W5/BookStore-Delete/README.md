@@ -1,6 +1,6 @@
 ### [⬅️ Go Back](../../../README.md)
 
-# .NET Model Usage Assignment
+# .NET DELETE Usage Assignment
 
 Assignment Link: [Patika.Dev .NET DELETE Usage Assignment](https://app.patika.dev/courses/net-core/5-odev-cozum-model-kullanımı)
 
