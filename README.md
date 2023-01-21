@@ -85,6 +85,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ InterestRate WebApi - Homework #1](/weeks/W5/BankingApi/)
     - [⭐ BookStore - Model Usage Assignment](/weeks/W5/BookStore-ModelUsage/)
     - [⭐ BookStore - Delete Assignment](/weeks/W5/BookStore-Delete/)
+    - [⭐ BookStore - Validators Assignment](/weeks/W5/BookStore-Validators/)
 
 - ### Week#6
   - Loading... 🤩
