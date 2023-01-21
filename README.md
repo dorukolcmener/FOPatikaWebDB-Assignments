@@ -84,6 +84,7 @@ This is my personal repository to keep track of my assignments and projects of F
   - Entity Framework
     - [⭐ InterestRate WebApi - Homework #1](/weeks/W5/BankingApi/)
     - [⭐ BookStore - Model Usage Assignment](/weeks/W5/BookStore-ModelUsage/)
+    - [⭐ BookStore - Delete Assignment](/weeks/W5/BookStore-Delete/)
 
 - ### Week#6
   - Loading... 🤩
