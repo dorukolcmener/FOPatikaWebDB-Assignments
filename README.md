@@ -86,6 +86,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ BookStore - Model Usage Assignment](/weeks/W5/BookStore-ModelUsage/)
     - [⭐ BookStore - Delete Assignment](/weeks/W5/BookStore-Delete/)
     - [⭐ BookStore - Validators Assignment](/weeks/W5/BookStore-Validators/)
+    - [⭐ BookStore - Author Controller Assignment](/weeks/W5/BookStore-Author/)
 
 - ### Week#6
   - Loading... 🤩
