@@ -88,6 +88,7 @@ This is my personal repository to keep track of my assignments and projects of F
     - [⭐ BookStore - Validators Assignment](/weeks/W5/BookStore-Validators/)
     - [⭐ BookStore - Author Controller Assignment](/weeks/W5/BookStore-Author/)
     - [⭐ BookStore - Unit Tests Assignment](/weeks/W5/BookStore-Tests/)
+    - [BookStore - JWT Tokens](/weeks/W5/BookStore-Token/)
 
 - ### Week#6
   - Loading... 🤩
