@@ -1,12 +1,10 @@
 ### [⬅️ Go Back](../../../README.md)
 
-# .NET Unit Test Assignment
-
-Assignment Link: [.NET Unit Test Assignment](https://app.patika.dev/courses/net-core/17-odev-unit-tests)
+# .NET JWT Token Implementation
 
 ## ✏️Answer :
 
-Implemented unit tests for following entity commands and queries: Book, Genre, Author. You can review the code via cloning this directory.
+Implemented JWT token for authentication.
 
 Enjoy 🚀 - Doruk
 
