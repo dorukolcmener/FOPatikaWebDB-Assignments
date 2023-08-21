@@ -91,7 +91,8 @@ This is my personal repository to keep track of my assignments and projects of F
     - [BookStore - JWT Tokens](/weeks/W5/BookStore-Token/)
 
 - ### Week#6
-  - Loading... 🤩
+  - Final Project 🤩
+    - [🚀 Final project of FO Patika Software Academy Program](https://github.com/dorukolcmener/FOPatika-SoftwareAcademy-FinalProject.git)
 
 ## Usage
 
